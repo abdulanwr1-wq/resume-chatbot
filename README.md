@@ -2,6 +2,8 @@
 
 This project is a Gradio-based personal career chatbot for **Abdul S Anwar**. It answers questions about Abdul's professional background, skills, education, and experience using a resume PDF and summary text file as context.
 
+![Personal Career Chatbot UI](docs/ui-screenshot.png)
+
 The app also includes lightweight lead capture and notification tools, basic spam protection, session-level user identification, clickable starter questions, and local JSONL logging.
 
 ## Features
